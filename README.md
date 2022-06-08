@@ -1,1 +1,3 @@
-# Soba-mi19105
+# Projekat - Soba
+
+Projekat uradjen u svrhu ispita Racunarska grafika, smer informatika, Matematickog fakulteta u Beogradu.
